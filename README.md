@@ -1,5 +1,5 @@
 # 使用方法
-## 可视化工具的
+## 可视化工具的使用方法
 1. 安装requirment.txt里的库
 2. 把PCM2WAV_UI.ui文件用pyuic6编译成.py文件
 3. 运行main.py
